@@ -67,6 +67,8 @@
 <td align="center" width="80"><a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a><br><sub>Vite</sub></td>
 <td align="center" width="80"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a><br><sub>MySQL</sub></td>
 <td align="center" width="80"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" /></a><br><sub>SQLite</sub></td>
+<td align="center" width="80"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a><br><sub>PostgreSQL</sub></td>
+<td align="center" width="80"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a><br><sub>MongoDB</sub></td>
 </tr>
 </table>
 
@@ -80,6 +82,8 @@
 <td align="center" width="80"><a href="https://wearechintu.com"><img src="https://wearechintu.com/favicon.ico" width="48" height="48" /></a><br><sub>Chintu</sub></td>
 <td align="center" width="80"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a><br><sub>GitHub</sub></td>
 <td align="center" width="80"><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></a><br><sub>Actions</sub></td>
+<td align="center" width="80"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a><br><sub>Docker</sub></td>
+<td align="center" width="80"><a href="https://playwright.dev/"><img src="https://skillicons.dev/icons?i=playwright&theme=dark" /></a><br><sub>Playwright</sub></td>
 <td align="center" width="80"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a><br><sub>VS Code</sub></td>
 <td align="center" width="80"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a><br><sub>Linux</sub></td>
 <td align="center" width="80"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a><br><sub>Postman</sub></td>
@@ -101,6 +105,10 @@
 <table>
 <tr>
 <td align="center" width="180" valign="top">
+<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure&theme=dark" /></a>
+<br/><sub><b>Azure</b><br/>App Services, Functions, AD, cloud-side enterprise integrations</sub>
+</td>
+<td align="center" width="180" valign="top">
 <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" /></a>
 <br/><sub><b>Supabase</b><br/>Postgres, auth, row-level security, realtime subs — backend for production apps</sub>
 </td>
@@ -115,6 +123,23 @@
 <td align="center" width="180" valign="top">
 <a href="https://wearechintu.com"><img src="https://wearechintu.com/favicon.ico" width="48" height="48" /></a>
 <br/><sub><b>Chintu</b><br/>Desktop Git client — version control without the terminal</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub><b>ENTERPRISE PLATFORMS</b></sub>
+
+<table>
+<tr>
+<td align="center" width="180" valign="top">
+<a href="https://www.workday.com/"><img src="https://img.shields.io/badge/Workday-F38B00?style=for-the-badge&logo=workday&logoColor=white" /></a>
+<br/><sub><b>Workday</b><br/>HCM, reporting, integrations — internal enterprise workflows</sub>
+</td>
+<td align="center" width="180" valign="top">
+<a href="https://www.servicenow.com/"><img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" /></a>
+<br/><sub><b>ServiceNow</b><br/>ITSM, workflow automation, IT operations tooling</sub>
 </td>
 </tr>
 </table>
