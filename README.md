@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=42&duration=4000&pause=100000&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=80&lines=SYSTEM%3A+ONLINE" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2026;MINOR+%2F%2F+PSYCHOLOGY;BUILDING+GITBUDDY+%2F%2F+GIT+CONTROL%2C+SIMPLIFIED;TRANSMISSION+ACTIVE+...+STANDBY" />
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2026;MINOR+%2F%2F+PSYCHOLOGY;TRANSMISSION+ACTIVE+...+STANDBY" />
 
 </div>
 
@@ -76,6 +76,7 @@
 <table>
 <tr>
 <td align="center" width="80"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a><br><sub>Git</sub></td>
+<td align="center" width="80"><a href="https://wearechintu.com"><img src="https://wearechintu.com/favicon.ico" width="48" height="48" /></a><br><sub>Chintu</sub></td>
 <td align="center" width="80"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a><br><sub>GitHub</sub></td>
 <td align="center" width="80"><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></a><br><sub>Actions</sub></td>
 <td align="center" width="80"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a><br><sub>VS Code</sub></td>
@@ -109,6 +110,10 @@
 <td align="center" width="180" valign="top">
 <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" /></a>
 <br/><sub><b>Cloudflare</b><br/>Workers, DNS, R2 storage, edge caching, security layer</sub>
+</td>
+<td align="center" width="180" valign="top">
+<a href="https://wearechintu.com"><img src="https://wearechintu.com/favicon.ico" width="48" height="48" /></a>
+<br/><sub><b>Chintu</b><br/>Desktop Git client — version control without the terminal</sub>
 </td>
 </tr>
 </table>
@@ -211,8 +216,12 @@
 
 <br/><br/>
 
+<sub><a href="https://wearechintu.com" style="opacity:0.4;">.</a></sub>
+
 ```
 > END OF TRANSMISSION_█
 ```
+
+<sub><i>committed via <a href="https://wearechintu.com">chintu</a></i></sub>
 
 </div>
