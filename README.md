@@ -34,7 +34,21 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,electron,flask,git,github,vscode,linux&theme=dark" />
+<sub><b>LANGUAGES</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,r,matlab,bash&theme=dark" />
+
+<br/><br/>
+
+<sub><b>FRAMEWORKS & LIBRARIES</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,electron,flask,vite,mysql&theme=dark" />
+
+<br/><br/>
+
+<sub><b>TOOLS</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,postman,latex,markdown&theme=dark" />
 
 </div>
 
