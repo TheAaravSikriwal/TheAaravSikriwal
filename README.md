@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=42&duration=4000&pause=100000&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=80&lines=SYSTEM%3A+ONLINE" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2026;MINOR+%2F%2F+PSYCHOLOGY;TRANSMISSION+ACTIVE+...+STANDBY" />
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2028;MINOR+%2F%2F+PSYCHOLOGY;TRANSMISSION+ACTIVE+...+STANDBY" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&duration=3000&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=MAJOR+%2F%2F+Computer+Science+%2B+Business+(Dual);CONCENTRATION+%2F%2F+Finance;MINOR+%2F%2F+Psychology;INSTITUTION+%2F%2F+Northeastern+University+%2F%2F+2026" />
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&duration=3000&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=MAJOR+%2F%2F+Computer+Science+%2B+Business+(Dual);CONCENTRATION+%2F%2F+Finance;MINOR+%2F%2F+Psychology;INSTITUTION+%2F%2F+Northeastern+University+%2F%2F+2028" />
 
 </div>
 
