@@ -88,6 +88,89 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&duration=2000&pause=600&color=39FF14&background=000000&center=true&vCenter=true&width=900&height=40&lines=AI+OPERATIONS" />
+
+<br/>
+
+<sub><b>APIs & PROVIDERS</b></sub>
+
+<table>
+<tr>
+<td align="center" width="140" valign="top">
+<a href="https://www.anthropic.com/api"><img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+<br/><sub>Anthropic API — agents, tools, Claude Code workflows</sub>
+</td>
+<td align="center" width="140" valign="top">
+<a href="https://platform.openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<br/><sub>GPT models, function calling, structured outputs</sub>
+</td>
+<td align="center" width="140" valign="top">
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+<br/><sub>Multimodal experimentation, long-context tasks</sub>
+</td>
+<td align="center" width="140" valign="top">
+<a href="https://ollama.com/"><img src="https://img.shields.io/badge/Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" /></a>
+<br/><sub>Ollama, llama.cpp — offline inference</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub><b>FRAMEWORKS</b></sub>
+
+<table>
+<tr>
+<td align="center" width="140" valign="top">
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
+<br/><sub>Chains, agents, tool routing for production assistants</sub>
+</td>
+<td align="center" width="140" valign="top">
+<a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" /></a>
+<br/><sub>Document ingestion + retrieval pipelines</sub>
+</td>
+<td align="center" width="140" valign="top">
+<img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+<br/><sub>Pinecone, Chroma, FAISS — embedding storage</sub>
+</td>
+<td align="center" width="140" valign="top">
+<img src="https://img.shields.io/badge/MCP-9333EA?style=for-the-badge&logo=anthropic&logoColor=white" />
+<br/><sub>Model Context Protocol servers & tooling</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub><b>SYSTEMS I'VE BUILT</b></sub>
+
+<table>
+<tr>
+<td align="center" width="190" valign="top">
+<img src="https://img.shields.io/badge/Custom_RAG-39FF14?style=for-the-badge&logoColor=black" />
+<br/><sub>Hand-rolled retrieval-augmented generation: chunking, embeddings, reranking, source citations</sub>
+</td>
+<td align="center" width="190" valign="top">
+<img src="https://img.shields.io/badge/Token_Optimization-39FF14?style=for-the-badge&logoColor=black" />
+<br/><sub>Original token-compression layer reducing prompt cost without losing fidelity</sub>
+</td>
+<td align="center" width="190" valign="top">
+<img src="https://img.shields.io/badge/AI_Workflows-39FF14?style=for-the-badge&logoColor=black" />
+<br/><sub>Production automation pipelines deployed for real companies</sub>
+</td>
+<td align="center" width="190" valign="top">
+<img src="https://img.shields.io/badge/LLM_GUI_Apps-39FF14?style=for-the-badge&logoColor=black" />
+<br/><sub>Desktop research assistant (PyQt + Anthropic API) and other LLM-powered tools</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=TheAaravSikriwal&label=SIGNAL+PINGS&color=000000&style=for-the-badge&labelColor=39FF14" />
 
 <br/><br/>
