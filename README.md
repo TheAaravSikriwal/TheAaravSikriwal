@@ -58,8 +58,12 @@
 <table>
 <tr>
 <td align="center" width="80"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a><br><sub>React</sub></td>
+<td align="center" width="80"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a><br><sub>Next.js</sub></td>
 <td align="center" width="80"><a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron&theme=dark" /></a><br><sub>Electron</sub></td>
 <td align="center" width="80"><a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" /></a><br><sub>Flask</sub></td>
+<td align="center" width="80"><a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></a><br><sub>FastAPI</sub></td>
+<td align="center" width="80"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a><br><sub>Node.js</sub></td>
+<td align="center" width="80"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a><br><sub>Tailwind</sub></td>
 <td align="center" width="80"><a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a><br><sub>Vite</sub></td>
 <td align="center" width="80"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a><br><sub>SQL / MySQL</sub></td>
 </tr>
@@ -79,6 +83,33 @@
 <td align="center" width="80"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a><br><sub>Postman</sub></td>
 <td align="center" width="80"><a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex&theme=dark" /></a><br><sub>LaTeX</sub></td>
 <td align="center" width="80"><a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown&theme=dark" /></a><br><sub>Markdown</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&duration=2000&pause=600&color=39FF14&background=000000&center=true&vCenter=true&width=900&height=40&lines=INFRASTRUCTURE+%26+DEPLOYMENT" />
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="180" valign="top">
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" /></a>
+<br/><sub><b>Supabase</b><br/>Postgres, auth, row-level security, realtime subs — backend for production apps</sub>
+</td>
+<td align="center" width="180" valign="top">
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
+<br/><sub><b>Vercel</b><br/>Next.js hosting, edge functions, preview deployments wired to GitHub</sub>
+</td>
+<td align="center" width="180" valign="top">
+<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" /></a>
+<br/><sub><b>Cloudflare</b><br/>Workers, DNS, R2 storage, edge caching, security layer</sub>
+</td>
 </tr>
 </table>
 
