@@ -1,57 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AARAV%20SIKRIWAL&fontSize=50&fontColor=00FFD1&fontAlignY=38&animation=fadeIn&desc=Building%20things%20that%20launch%20into%20orbit%20%F0%9F%9A%80&descAlignY=58&descSize=18" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗           ║
+║   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║           ║
+║   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║           ║
+║   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║           ║
+║   ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║           ║
+║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝           ║
+║                                                                    ║
+║                STATUS  ►►  CREW MEMBER ONLINE                     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-<a href="https://github.com/TheAaravSikriwal">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&pause=1000&color=00FFD1&background=0D1117&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Finance+%40+Northeastern;Building+GitBuddy+%E2%80%94+Git+for+Humans;Exploring+space%2C+algorithms+%26+Pok%C3%A9mon+cards;Knowledge+is+power." />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2026;BUILDING+GITBUDDY+%2F%2F+GIT+CONTROL%2C+SIMPLIFIED;TRANSMISSION+ACTIVE+...+STANDBY" />
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 🛰️ Mission Log
-
 ```
-> whoami
-Aarav Sikriwal — CS + Business dual major, Finance concentration
-Psych minor · Northeastern University · Class of 2026
-
-> current_orbit
-Incoming Intern @ Regeneron Pharmaceuticals (G&A IT / AI)
-
-> active_payload
-Building GitBuddy — a desktop Git GUI that makes Git
-approachable for non-technical users
-Stack: Electron + React + Vite (frontend) · C++ (backend)
-
-> transmissions_from_earth
-Space exploration · Japanese language & culture
-Logic puzzles · Pokémon TCG · Design & digital media
+┌─[ PANEL A ]──────────────────────────────────────────────────────┐
+│  IDENTITY LOG                                                    │
+├────────────────────────────────────────────────────────────────-─┤
+│  NAME .............. Aarav Sikriwal                              │
+│  CALLSIGN ........... TheAaravSikriwal                           │
+│  ORIGIN ............. Northeastern University, Class of 2026     │
+│  TRAINING ........... CS + Business (Dual) · Finance Concentr.   │
+│                        Psychology Minor                          │
+│  NEXT DEPLOYMENT ..... Regeneron Pharmaceuticals (G&A IT / AI)   │
+└────────────────────────────────────────────────────────────────-─┘
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+```
+┌─[ PANEL B ]──────────────────────────────────────────────────────┐
+│  ACTIVE MISSION                                                   │
+├────────────────────────────────────────────────────────────────-─┤
+│  PROJECT ............ GitBuddy                                   │
+│  OBJECTIVE ........... Desktop Git GUI for non-technical crew    │
+│  FRONTEND ............ Electron + React + Vite                   │
+│  BACKEND ............. C++                                       │
+│  STATUS .............. ACTIVE BUILD · UI INTEGRATION PHASE       │
+└────────────────────────────────────────────────────────────────-─┘
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheAaravSikriwal&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6AC1&text_color=c9d1d9" width="100%"/>
-
-</td>
-</tr>
-</table>
+```
+┌─[ PANEL C ]──────────────────────────────────────────────────────┐
+│  AUXILIARY SYSTEMS (INTERESTS)                                    │
+├────────────────────────────────────────────────────────────────-─┤
+│  [x] Space Exploration       [x] Japanese Language & Culture     │
+│  [x] Logic Puzzles            [x] Pokémon TCG                    │
+│  [x] Algorithms               [x] Design & Digital Media         │
+└────────────────────────────────────────────────────────────────-─┘
+```
 
 <br/>
 
 <div align="center">
 
-### 📡 Signal Strength (Streak)
+### ▓▓ TELEMETRY — GITHUB ACTIVITY ▓▓
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAaravSikriwal&theme=synthwave&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6AC1&currStreakLabel=00FFD1" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheAaravSikriwal&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=00FF99&border_color=39FF14" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAaravSikriwal&theme=radical&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FF99&sideNums=00FF99" width="48%" />
 
 </div>
 
@@ -59,7 +70,7 @@ Logic puzzles · Pokémon TCG · Design & digital media
 
 <div align="center">
 
-### 🐍 The Snake Strikes Through Carbon
+### ▓▓ HULL BREACH DETECTED — SNAKE PROTOCOL ENGAGED ▓▓
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAaravSikriwal/TheAaravSikriwal/output/github-contribution-grid-snake-dark.svg">
@@ -71,11 +82,15 @@ Logic puzzles · Pokémon TCG · Design & digital media
 
 <br/>
 
+```
+┌─[ PANEL D ]──────────────────────────────────────────────────────┐
+│  EQUIPMENT MANIFEST                                              │
+└────────────────────────────────────────────────────────────────-─┘
+```
+
 <div align="center">
 
-### 🧰 Cargo Hold (Tech Stack)
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,electron,flask,cpp,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,electron,flask,git,github,vscode,linux&theme=dark" />
 
 </div>
 
@@ -83,15 +98,23 @@ Logic puzzles · Pokémon TCG · Design & digital media
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TheAaravSikriwal&label=TRANSMISSIONS+RECEIVED&color=302b63&style=flat-square" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  TRANSMISSIONS RECEIVED: PROFILE VIEWS BELOW                      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=TheAaravSikriwal&label=SIGNAL+PINGS&color=000000&style=for-the-badge&labelColor=39FF14" />
 
 <br/><br/>
 
-<a href="https://www.instagram.com/wearechintu/"><img src="https://img.shields.io/badge/Instagram-302b63?style=for-the-badge&logo=instagram&logoColor=00FFD1"/></a>
-<a href="https://linkedin.com/in/aarav-singh-sikriwal"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00FFD1"/></a>
+<a href="https://www.instagram.com/wearechintu/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=39FF14"/></a>
+<a href="https://linkedin.com/in/aarav-singh-sikriwal"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+```
+> END OF TRANSMISSION_█
+```
 
 </div>
