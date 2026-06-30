@@ -109,32 +109,23 @@ def build_svg(grid, dark=True):
     width = PAD_X * 2 + WEEKS * CELL
     height = PAD_Y * 2 + DAYS * CELL + 30
 
-    # Build ordered visit path: least -> most commits
-    # Skip cells with 0 commits (we still draw them faintly, just don't visit)
     filled = []
     for w in range(WEEKS):
         for d in range(DAYS):
             if grid[w][d] > 0:
                 filled.append((grid[w][d], w, d))
-    filled.sort(key=lambda x: (x[0], x[1], x[2]))  # ascending by commits
+    filled.sort(key=lambda x: (x[0], x[1], x[2]))
     visit_order = [(w, d) for _, w, d in filled]
 
     if not visit_order:
-        # No contributions in last year — degrade gracefully
         visit_order = [(0, 0), (WEEKS - 1, DAYS - 1)]
 
-    # Coordinate path for UFO: entry from off-screen left, visit each cell, exit right
     ufo_coords = [(-30, PAD_Y - 20)]
     for w, d in visit_order:
         ufo_coords.append(cell_center(w, d))
     ufo_coords.append((width + 30, PAD_Y - 20))
     ufo_path = build_path(ufo_coords)
 
-    # Ship path: same shape but offset back in time (we use a separate path
-    # that starts further off-screen so when it animates with the same duration
-    # it's visually behind the UFO).
-    # Trick: pad the start with extra coordinates so the ship "catches up"
-    # to where the UFO was TRAIL_OFFSET steps ago.
     ship_start_pad = [(-30 - i * 20, PAD_Y - 20) for i in range(TRAIL_OFFSET, 0, -1)]
     ship_coords = ship_start_pad + ufo_coords[:-TRAIL_OFFSET]
     ship_coords.append((width + 30, PAD_Y - 20))
@@ -146,7 +137,6 @@ def build_svg(grid, dark=True):
         f'width="100%" style="background:{bg}">'
     )
 
-    # defs: gradients for ufo dome, beam, engine glow
     parts.append(f'''<defs>
       <radialGradient id="dome" cx="50%" cy="40%" r="60%">
         <stop offset="0%" stop-color="#aaffaa" stop-opacity="0.95"/>
@@ -171,7 +161,6 @@ def build_svg(grid, dark=True):
 
     parts.append(f'<rect width="{width}" height="{height}" fill="{bg}"/>')
 
-    # Background twinkling stars in the padding area
     if dark:
         import random
         random.seed(7)
@@ -179,7 +168,6 @@ def build_svg(grid, dark=True):
         for _ in range(60):
             sx = random.randint(0, width)
             sy = random.randint(0, height)
-            # avoid grid area
             if PAD_Y - 5 < sy < PAD_Y + DAYS * CELL + 5 and PAD_X - 5 < sx < PAD_X + WEEKS * CELL + 5:
                 continue
             r = random.uniform(0.4, 1.2)
@@ -192,29 +180,24 @@ def build_svg(grid, dark=True):
             )
         parts.extend(bg_stars)
 
-    # Contribution stars (5-pointed)
-    # Each cell's star fades out when its turn in visit_order comes up.
     total_visits = len(visit_order)
     for w in range(WEEKS):
         for d in range(DAYS):
             cx, cy = cell_center(w, d)
             count = grid[w][d]
             if count == 0:
-                # empty/faint placeholder star
                 pts = star_points(cx, cy, 2.5)
                 parts.append(
                     f'<polygon points="{pts}" fill="{star_color}" opacity="{EMPTY_OPACITY}"/>'
                 )
             else:
-                # size scales subtly with count (3.5 - 6 px outer radius)
                 r_out = 3.5 + min(count / 10.0, 1.0) * 2.5
                 pts = star_points(cx, cy, r_out)
-                # find when this cell is visited
                 try:
                     idx = visit_order.index((w, d))
                 except ValueError:
                     idx = 0
-                t = (idx + 1) / (total_visits + 2)  # +2 for entry/exit padding
+                t = (idx + 1) / (total_visits + 2)
                 fade_start = max(0, t - 0.003)
                 fade_end = min(1, t + 0.012)
                 parts.append(
@@ -226,46 +209,30 @@ def build_svg(grid, dark=True):
                     f'</polygon>'
                 )
 
-    # ---------- UFO ----------
-    # Group with tractor beam BEHIND the saucer body
     parts.append(f'''<g>
       <animateMotion dur="{DURATION}s" repeatCount="indefinite" rotate="0" path="{ufo_path}"/>
-      <!-- tractor beam (downward cone) -->
       <path d="M -10,2 L 10,2 L 22,40 L -22,40 Z" fill="url(#beam)"/>
-      <!-- saucer disc -->
       <ellipse cx="0" cy="0" rx="20" ry="6" fill="#2d2d2d" stroke="{accent}" stroke-width="1"/>
       <ellipse cx="0" cy="-2" rx="20" ry="3" fill="#444"/>
-      <!-- rim lights -->
       <circle cx="-14" cy="1" r="1.4" fill="{accent}"><animate attributeName="opacity" values="1;0.3;1" dur="0.6s" repeatCount="indefinite"/></circle>
       <circle cx="-7" cy="2" r="1.4" fill="{accent}"><animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" repeatCount="indefinite"/></circle>
       <circle cx="0" cy="2.5" r="1.4" fill="{accent}"><animate attributeName="opacity" values="1;0.3;1" dur="0.6s" repeatCount="indefinite"/></circle>
       <circle cx="7" cy="2" r="1.4" fill="{accent}"><animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" repeatCount="indefinite"/></circle>
       <circle cx="14" cy="1" r="1.4" fill="{accent}"><animate attributeName="opacity" values="1;0.3;1" dur="0.6s" repeatCount="indefinite"/></circle>
-      <!-- dome -->
       <ellipse cx="0" cy="-4" rx="9" ry="7" fill="url(#dome)" stroke="{accent}" stroke-width="0.8"/>
       <ellipse cx="-2" cy="-6" rx="3" ry="2" fill="#ffffff" opacity="0.4"/>
     </g>''')
 
-    # ---------- Rocket / spaceship ----------
-    # rotated 90deg-ish naturally because animateMotion's rotate="auto" would
-    # spin it through every turn; we keep rotate=0 to keep orientation steady.
-    # Draw the rocket pointing right (toward where ufo is going).
     parts.append(f'''<g>
       <animateMotion dur="{DURATION}s" repeatCount="indefinite" rotate="0" path="{ship_path}"/>
-      <!-- engine flame (behind body) -->
       <ellipse cx="-14" cy="0" rx="8" ry="3.5" fill="url(#flame)">
         <animate attributeName="rx" values="6;10;6" dur="0.25s" repeatCount="indefinite"/>
       </ellipse>
-      <!-- fuselage -->
       <path d="M -10,-4 L 8,-4 L 14,0 L 8,4 L -10,4 Z" fill="#cccccc" stroke="{accent}" stroke-width="1"/>
-      <!-- nose cone -->
       <path d="M 8,-4 L 14,0 L 8,4 Z" fill="{accent}"/>
-      <!-- cockpit window -->
       <circle cx="2" cy="0" r="2.2" fill="#88ddff" stroke="{accent}" stroke-width="0.6"/>
-      <!-- wings/fins -->
       <path d="M -6,-4 L -10,-9 L -4,-4 Z" fill="{accent}"/>
       <path d="M -6,4 L -10,9 L -4,4 Z" fill="{accent}"/>
-      <!-- laser bolt firing forward -->
       <line x1="14" y1="0" x2="38" y2="0" stroke="{accent}" stroke-width="2" stroke-linecap="round">
         <animate attributeName="opacity" values="1;0;1;0;1" dur="0.6s" repeatCount="indefinite"/>
         <animate attributeName="x2" values="18;50;18" dur="0.6s" repeatCount="indefinite"/>
