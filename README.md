@@ -1,76 +1,14 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗           ║
-║   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║           ║
-║   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║           ║
-║   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║           ║
-║   ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║           ║
-║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝           ║
-║                                                                    ║
-║                STATUS  ►►  CREW MEMBER ONLINE                     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=42&duration=4000&pause=100000&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=80&lines=SYSTEM%3A+ONLINE" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2026;BUILDING+GITBUDDY+%2F%2F+GIT+CONTROL%2C+SIMPLIFIED;TRANSMISSION+ACTIVE+...+STANDBY" />
-
-</div>
-
-<br/>
-
-```
-┌─[ PANEL A ]──────────────────────────────────────────────────────┐
-│  IDENTITY LOG                                                    │
-├────────────────────────────────────────────────────────────────-─┤
-│  NAME .............. Aarav Sikriwal                              │
-│  CALLSIGN ........... TheAaravSikriwal                           │
-│  ORIGIN ............. Northeastern University, Class of 2026     │
-│  TRAINING ........... CS + Business (Dual) · Finance Concentr.   │
-│                        Psychology Minor                          │
-│  NEXT DEPLOYMENT ..... Regeneron Pharmaceuticals (G&A IT / AI)   │
-└────────────────────────────────────────────────────────────────-─┘
-```
-
-```
-┌─[ PANEL B ]──────────────────────────────────────────────────────┐
-│  ACTIVE MISSION                                                   │
-├────────────────────────────────────────────────────────────────-─┤
-│  PROJECT ............ GitBuddy                                   │
-│  OBJECTIVE ........... Desktop Git GUI for non-technical crew    │
-│  FRONTEND ............ Electron + React + Vite                   │
-│  BACKEND ............. C++                                       │
-│  STATUS .............. ACTIVE BUILD · UI INTEGRATION PHASE       │
-└────────────────────────────────────────────────────────────────-─┘
-```
-
-```
-┌─[ PANEL C ]──────────────────────────────────────────────────────┐
-│  AUXILIARY SYSTEMS (INTERESTS)                                    │
-├────────────────────────────────────────────────────────────────-─┤
-│  [x] Space Exploration       [x] Japanese Language & Culture     │
-│  [x] Logic Puzzles            [x] Pokémon TCG                    │
-│  [x] Algorithms               [x] Design & Digital Media         │
-└────────────────────────────────────────────────────────────────-─┘
-```
-
-<br/>
-
-<div align="center">
-
-### ▓▓ TELEMETRY — GITHUB ACTIVITY ▓▓
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheAaravSikriwal&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=00FF99&border_color=39FF14" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAaravSikriwal&theme=radical&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FF99&sideNums=00FF99" width="48%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=AARAV+SIKRIWAL+%2F%2F+CALLSIGN%3A+CHINTU;CS+%2B+BUSINESS+%2F+FINANCE+%2F%2F+NORTHEASTERN+2026;MINOR+%2F%2F+PSYCHOLOGY;BUILDING+GITBUDDY+%2F%2F+GIT+CONTROL%2C+SIMPLIFIED;TRANSMISSION+ACTIVE+...+STANDBY" />
 
 </div>
 
 <br/>
 
 <div align="center">
-
-### ▓▓ HULL BREACH DETECTED — SNAKE PROTOCOL ENGAGED ▓▓
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAaravSikriwal/TheAaravSikriwal/output/github-contribution-grid-snake-dark.svg">
@@ -82,13 +20,19 @@
 
 <br/>
 
-```
-┌─[ PANEL D ]──────────────────────────────────────────────────────┐
-│  EQUIPMENT MANIFEST                                              │
-└────────────────────────────────────────────────────────────────-─┘
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&duration=3000&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=MAJOR+%2F%2F+Computer+Science+%2B+Business+(Dual);CONCENTRATION+%2F%2F+Finance;MINOR+%2F%2F+Psychology;INSTITUTION+%2F%2F+Northeastern+University+%2F%2F+2026" />
+
+</div>
+
+<br/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&duration=2000&pause=600&color=39FF14&background=000000&center=true&vCenter=true&width=900&height=40&lines=CODING+SKILLS" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,electron,flask,git,github,vscode,linux&theme=dark" />
 
@@ -97,12 +41,6 @@
 <br/>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  TRANSMISSIONS RECEIVED: PROFILE VIEWS BELOW                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://komarev.com/ghpvc/?username=TheAaravSikriwal&label=SIGNAL+PINGS&color=000000&style=for-the-badge&labelColor=39FF14" />
 
