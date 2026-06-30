@@ -35,43 +35,52 @@
 <br/>
 
 <sub><b>LANGUAGES</b></sub>
+
+<table>
+<tr>
+<td align="center" width="80"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a><br><sub>Python</sub></td>
+<td align="center" width="80"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a><br><sub>C++</sub></td>
+<td align="center" width="80"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a><br><sub>Java</sub></td>
+<td align="center" width="80"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a><br><sub>JavaScript</sub></td>
+<td align="center" width="80"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a><br><sub>TypeScript</sub></td>
+<td align="center" width="80"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a><br><sub>HTML</sub></td>
+<td align="center" width="80"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a><br><sub>CSS</sub></td>
+<td align="center" width="80"><a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r&theme=dark" /></a><br><sub>R</sub></td>
+<td align="center" width="80"><a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" /></a><br><sub>MATLAB</sub></td>
+<td align="center" width="80"><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></a><br><sub>Bash</sub></td>
+</tr>
+</table>
+
 <br/>
-
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=dark" title="R" alt="R" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" title="MATLAB" alt="MATLAB" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" alt="Bash" /></a>
-
-<br/><br/>
 
 <sub><b>FRAMEWORKS & LIBRARIES</b></sub>
+
+<table>
+<tr>
+<td align="center" width="80"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a><br><sub>React</sub></td>
+<td align="center" width="80"><a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron&theme=dark" /></a><br><sub>Electron</sub></td>
+<td align="center" width="80"><a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" /></a><br><sub>Flask</sub></td>
+<td align="center" width="80"><a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a><br><sub>Vite</sub></td>
+<td align="center" width="80"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a><br><sub>SQL / MySQL</sub></td>
+</tr>
+</table>
+
 <br/>
-
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" /></a>
-<a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron&theme=dark" title="Electron" alt="Electron" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" /></a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL / SQL" alt="MySQL" /></a>
-
-<br/><br/>
 
 <sub><b>TOOLS</b></sub>
-<br/>
 
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="VS Code" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" /></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" /></a>
-<a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=dark" title="LaTeX" alt="LaTeX" /></a>
-<a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=markdown&theme=dark" title="Markdown" alt="Markdown" /></a>
+<table>
+<tr>
+<td align="center" width="80"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a><br><sub>Git</sub></td>
+<td align="center" width="80"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a><br><sub>GitHub</sub></td>
+<td align="center" width="80"><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></a><br><sub>Actions</sub></td>
+<td align="center" width="80"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a><br><sub>VS Code</sub></td>
+<td align="center" width="80"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a><br><sub>Linux</sub></td>
+<td align="center" width="80"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a><br><sub>Postman</sub></td>
+<td align="center" width="80"><a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex&theme=dark" /></a><br><sub>LaTeX</sub></td>
+<td align="center" width="80"><a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown&theme=dark" /></a><br><sub>Markdown</sub></td>
+</tr>
+</table>
 
 </div>
 
